@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FDD9B5;
+}
+
+img{
+  width: 325px;
+  height: 450px;
+  align-items: center;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+header{
+  background-color: #594F3B;
+  color: #D1B490;
+  padding: 20px;
+  text-align: center;}
+
+main{
+  width: 80%;
+  text-align: center;
+  margin: 35px;
+}
+
+footer{
+  background-color: #594F3B;
+  color: #D1B490;
+  padding: 20px;
+  text-align: center;
+}
